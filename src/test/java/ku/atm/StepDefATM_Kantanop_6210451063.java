@@ -7,7 +7,7 @@ import io.cucumber.java.en.When;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class StepDefATM {
+public class StepDefATM_Kantanop_6210451063 {
 
     ATM atm;
     Bank bank;
